@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Default.aspx](./CS/Default.aspx) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
+* [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
+* [ScriptFile.js](./CS/ScriptFile.js) (VB: [ScriptFile.js](./VB/ScriptFile.js))
+<!-- default file list end -->
 # OBSOLETE - ASPxEditors (ASPxComboBox, ASPxGridLookup, ASPxTextBox, etc) - How to implement the NullText using the HTML5 functionality
 
 
