@@ -6,6 +6,9 @@
 * [ScriptFile.js](./CS/ScriptFile.js) (VB: [ScriptFile.js](./VB/ScriptFile.js))
 <!-- default file list end -->
 # OBSOLETE - ASPxEditors (ASPxComboBox, ASPxGridLookup, ASPxTextBox, etc) - How to implement the NullText using the HTML5 functionality
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e4392)**
+<!-- run online end -->
 
 
 <p>This example illustrates how to assign the HTML5 <a href="http://dev.w3.org/html5/spec/single-page.html#the-placeholder-attribute"><u>placeholder</u></a> attribute to DevExpress editors. The placeholder attribute represents a short hint intended to get a user a tip with data entry when a control does not have a value.<br />
